@@ -1,10 +1,13 @@
-# Analise Eólica com Pandas as pd
+<div align='center'>
+<h1>Analise Eólica com Pandas as pd</h1>
+</div>
 
 * Código para análise de dados de uma turbina eólica.
 * Bibliotécas:
     * Pandas
     * Seaborn
     * Matplotlib
+* Usando fonte de dados do site Fonte [Kaggle](https://www.kaggle.com)
 
 #
 
@@ -37,5 +40,5 @@
     <img alt='Turbina Eolica' width='500px' src='./analise_setor_de_energia/Assets/image/fotor-ai-2023070222251_2.jpg'/>
     <h4>Análise minuciosa sobre velocidade do vento e potência </h4>
     <p>Clique no Botão e Veja o Código e Plots Gerados no Projeto:</p>
-    <img alt='Button'width='200px' src='./analise_setor_de_energia/Assets/image/image.png'/>
+    <a href='https://github.com/Brunonavarrooficial/Analise_Eolica_Pandas/blob/main/analise_setor_de_energia/analise_tb.ipynb'><img alt='Button'width='200px' src='./analise_setor_de_energia/Assets/image/image.png'/></a>
 </div>
